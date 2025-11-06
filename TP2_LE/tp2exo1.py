@@ -6,7 +6,6 @@ print("\nAvant permutation:")
 print("x :", x)
 print("y :", y)
 
-# Permutation avec variable temporaire
 temp = x
 x = y
 y = temp

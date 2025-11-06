@@ -6,4 +6,3 @@ if nombre < 50:
     print("Pile !")
 else:
     print("Face !")
-
