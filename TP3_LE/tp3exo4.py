@@ -19,4 +19,3 @@ elif choix == "while":
 
 else:
     print("Choix invalide")
-

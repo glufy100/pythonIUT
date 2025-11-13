@@ -1,8 +1,9 @@
 import random
 
-nombre = random.randint(0, 100)
+x = random.randint(1,100)
 
-if nombre < 50:
-    print("Pile !")
+if x < 50:
+    print("c'est pair")
+
 else:
-    print("Face !")
+    print("c'est impair")

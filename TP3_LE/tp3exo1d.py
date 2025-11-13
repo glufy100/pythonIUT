@@ -1,6 +1,7 @@
 X = float(input("Entrez X : "))
 somme = 0
 N = 0
+
 while somme + N + 1 <= X:
     N += 1
     somme += N
